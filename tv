@@ -6,7 +6,7 @@ http://103.130.186.138:8800/oxygenplay/antv/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="LOCAL",SCTV
 https://cdnjt25.useetv.com/joss/15/sctv/.m3u8
 #EXTINF:-1 tvg-logo="https://imgshare.io/images/2019/09/30/rcti.png" group-title="LOCAL",RCTI
-https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png" group-title="LOCAL",TRANSTV
 https://cdnjt25.useetv.com/joss/15/transtv/.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="LOCAL",TRANS7
