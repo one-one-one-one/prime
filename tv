@@ -239,5 +239,5 @@ https://cdnjt25.useetv.com/joss/15/seatoday/.m3u8
 https://cdnjt25.useetv.com/joss/14/trtworld/.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvbsnews_small.png" group-title="NEWS",TVBS
 https://cdnjt25.useetv.com/joss/14/tvbs/.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxypremium_small.png" group-title="MOVIES",TVBS
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxypremium_small.png" group-title="MOVIES",GALAXY PREMIUM
 https://cdnjt25.useetv.com/joss/15/galaxypremium/.m3u8
