@@ -13,7 +13,7 @@ https://cdnjt25.useetv.com/joss/15/transtv/.m3u8
 https://cdnjt25.useetv.com/joss/15/trans7/.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Fs9WvG8Q/MNCtv.jpg" group-title="LOCAL",MNCTV
 https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_small1.png" group-title="LOCAL",METROTV
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_small1.png" group-title="LNEWS",METROTV
 https://cdnjt25.useetv.com/joss/15/metrotv/.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="LOCAL",TVONE
 http://103.130.186.138:8800/oxygenplay/tvone/index.m3u8
@@ -87,7 +87,7 @@ https://cdnjt25.useetv.com/joss/14/newsasia/.m3u8
 https://cdnjt25.useetv.com/joss/14/celestialmovie/.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" group-title="ENTERTAINMENT",TVN
 https://cdnjt25.useetv.com/joss/15/tvn/.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png" group-title="ENTERTAINMENT",TVN MOVIES
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png" group-title="MOVIES",TVN MOVIES
 https://cdnjt25.useetv.com/joss/15/tvnmovies/.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_wakuwaku_small.png" group-title="ENTERTAINMENT",WAKUWAKU
 https://cdnjt25.useetv.com/joss/15/wakuwaku/.m3u8
@@ -233,4 +233,9 @@ https://cdnjt25.useetv.com/joss/15/cnninternational/.m3u8
 https://cdnjt25.useetv.com/joss/15/lingua/.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_hgtv_small.png" group-title="KNOWLEDGE",EDUKASI
 https://cdnjt25.useetv.com/joss/15/hgtv/.m3u8
-
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_seatoday_small.png" group-title="NEWS",SEATODAY
+https://cdnjt25.useetv.com/joss/15/seatoday/.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trtworld_small.png" group-title="NEWS",TRTWORLD
+https://cdnjt25.useetv.com/joss/14/trtworld/.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvbsnews_small.png" group-title="NEWS",TVBS
+https://cdnjt25.useetv.com/joss/14/tvbs/.m3u8
